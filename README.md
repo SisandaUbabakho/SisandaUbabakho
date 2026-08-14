@@ -77,7 +77,7 @@ The homepage introduces visitors to the Animal Anti-Cruelty League and provides 
 
 ### About Us
 
-**File:** `about.html`
+**File:** about.html
 
 This page provides information about the organisation's history, mission, vision and target audience.
 
