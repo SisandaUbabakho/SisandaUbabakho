@@ -71,7 +71,7 @@ The website contains five main HTML pages.
 
 ### Home
 
-**File:** `index.html`
+**File:** index.html
 
 The homepage introduces visitors to the Animal Anti-Cruelty League and provides links to the organisation's main services.
 
