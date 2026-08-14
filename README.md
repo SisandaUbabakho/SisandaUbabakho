@@ -1,6 +1,6 @@
-# Animal Anti-Cruelty League Website
+ Animal Anti-Cruelty League Website
 
-## Student Information
+Student Information
 
 **Student Name:** Sisanda Mthenjana  
 **Student Number:** [10474252]   
@@ -16,7 +16,7 @@ The website has been designed with a simple, professional and user-friendly inte
 
 
 
-## 2. Organisation
+2. Organisation
 
 The organisation selected for this project is the Animal Anti-Cruelty League (AACL).
 
@@ -35,7 +35,7 @@ The organisation provides services including:
 
 
 
-## 3. Website Goals
+3. Website Goals
 
 The main goals of the website are to:
 
@@ -50,7 +50,7 @@ The main goals of the website are to:
 
 
 
-## 4. Target Audience
+4. Target Audience
 
 The website is designed for:
 
@@ -65,35 +65,35 @@ The website is designed for:
 
 
 
-## 5. Website Pages
+5. Website Pages
 
 The website contains five main HTML pages.
 
-### Home
+Home
 
 **File:** index.html
 
 The homepage introduces visitors to the Animal Anti-Cruelty League and provides links to the organisation's main services.
 
-### About Us
+ About Us
 
 **File:** about.html
 
 This page provides information about the organisation's history, mission, vision and target audience.
 
-### Services
+Services
 
 **File:** services.html
 
 This page describes the different services provided by AACL, including animal shelter, adoption, veterinary services, cruelty investigations, community outreach and education.
 
-### Enquiry
+Enquiry
 
 **File:** enquiry.html
 
 This page contains an enquiry form that allows visitors to provide their name, email address, contact number, enquiry type and message.
 
-### Contact
+Contact
 
 **File:** contact.html
 
@@ -101,7 +101,7 @@ This page provides contact information for different AACL locations and allows v
 
 
 
-## 6. Website Features
+6. Website Features
 
 The website includes:
 
@@ -122,33 +122,33 @@ The website includes:
 
 
 
-## 7. Technologies Used
+7. Technologies Used
 
 The website uses the following technologies:
 
-### HTML5
+HTML5
 
 HTML5 is used to create the structure and content of the website.
 
-### CSS3
+CSS3
 
 CSS3 is used to control the appearance, layout, colours, typography and responsive design of the website.
 
-### JavaScript
+JavaScript
 
 JavaScript is used to provide interactive functionality.
 
-### GitHub
+GitHub
 
 GitHub is used for version control and project submission.
 
 
 
-## 8. Folder Structure
+8. Folder Structure
 
 The project is organised into the following folders:
 
-```text
+text
 AACL-Website-Project
 │
 ├── index.html
