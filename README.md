@@ -2,10 +2,10 @@
 
 Student Information
 
-**Student Name:** Sisanda Mthenjana  
-**Student Number:** [10474252]   
-**Module:** [WEDE5020]  
-**Year:** 2026  
+Student Name:Sisanda Mthenjana  
+Student Number:[10474252]   
+Module: [WEDE5020]  
+Year: 2026  
 1. Project Overview
 
 This project involves the design and development of a responsive website for the Animal Anti-Cruelty League (AACL).
