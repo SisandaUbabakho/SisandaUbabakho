@@ -7,7 +7,7 @@
 **Module:** [WEDE5020]  
 **Year:** 2026  
 
----
+
 
 ## 1. Project Overview
 
@@ -17,7 +17,7 @@ The purpose of the website is to provide visitors with clear and accessible info
 
 The website has been designed with a simple, professional and user-friendly interface. It provides information about animal welfare services, adoption, shelter, veterinary care, animal cruelty investigations and community outreach.
 
----
+
 
 ## 2. Organisation
 
@@ -36,7 +36,7 @@ The organisation provides services including:
 - Community outreach
 - Animal welfare education
 
----
+
 
 ## 3. Website Goals
 
@@ -51,7 +51,7 @@ The main goals of the website are to:
 7. Provide contact information for different AACL locations.
 8. Create a professional and accessible online presence.
 
----
+
 
 ## 4. Target Audience
 
@@ -66,7 +66,7 @@ The website is designed for:
 - Community members
 - Schools and community organisations
 
----
+
 
 ## 5. Website Pages
 
@@ -102,7 +102,7 @@ This page contains an enquiry form that allows visitors to provide their name, e
 
 This page provides contact information for different AACL locations and allows visitors to find the appropriate branch.
 
----
+
 
 ## 6. Website Features
 
@@ -123,7 +123,7 @@ The website includes:
 - External CSS stylesheet
 - JavaScript functionality
 
----
+
 
 ## 7. Technologies Used
 
@@ -145,7 +145,7 @@ JavaScript is used to provide interactive functionality.
 
 GitHub is used for version control and project submission.
 
----
+
 
 ## 8. Folder Structure
 
