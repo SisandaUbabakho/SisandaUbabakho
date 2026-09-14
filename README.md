@@ -171,3 +171,23 @@ AACL-Website-Project
     ├── veterinary.jpg
     ├── shelter.jpg
     └── cruelty.jpg
+ Part 2 - CSS Styling and Responsive Design
+
+The website was updated for Part 2 by implementing an external
+CSS stylesheet, responsive layouts, typography improvements,
+responsive images and mobile-friendly styling.
+
+ Changelog
+
+ Part 2 Updates
+
+- Updated all five HTML pages to use the external `style.css` stylesheet.
+- Applied consistent typography, colours, spacing and layout styling.
+- Added CSS Grid and Flexbox layouts for the desktop version.
+- Added hover and focus states for navigation links, buttons and form fields.
+- Added responsive breakpoints for desktop, tablet and mobile devices.
+- Updated service cards to use a responsive multi-column layout.
+- Improved form styling and responsive behaviour.
+- Added responsive image attributes using `srcset` and `sizes`.
+- Corrected image and stylesheet file naming to ensure compatibility with GitHub Pages.
+- Tested the website using browser developer tools at desktop, tablet and mobile widths.
