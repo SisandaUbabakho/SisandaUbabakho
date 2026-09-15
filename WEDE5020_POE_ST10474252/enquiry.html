@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enquiry - Animal Anti-Cruelty League</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="logo">
+            Animal Anti-Cruelty League
+        </div>
+        <!-- Navigation -->
+        <nav>
+            <a href="index.html" >Home</a>
+            <a href="about.html">About Us</a>
+            <a href="services.html">Services</a>
+            <a href="enquiry.html">Enquiry</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <!-- Main Content -->
+    <main>
+        <section class="page-title">
+            <h1>Make an Enquiry</h1>
+            <p>Complete the form below and tell us how we can assist you.</p>
+            <img src="images/adoption.jpg" alt="Animal available for adoption">
+        </section>
+        <!-- Enquiry Form -->
+        <section>
+            <form action="#" method="post">
+                <!-- Name -->
+                <div class="form-group">
+                    <label for="fullname">
+                        Full Name:
+                    </label>
+                    <input
+                        type="text"
+                        id="fullname"
+                        name="fullname"
+                        required
+                    >
+                </div>
+                <!-- Email -->
+                <div class="form-group">
+                    <label for="email">
+                        Email Address:
+                    </label>
+                    <input
+                        type="email"
+                        id="email"
+                        name="email"
+                        required
+                    >
+                </div>
+                <!-- Phone -->
+                <div class="form-group">
+                    <label for="phone">
+                        Contact Number:
+                    </label>
+                    <input
+                        type="tel"
+                        id="phone"
+                        name="phone"
+                    >
+                </div>
+                <!-- Enquiry Type -->
+                <div class="form-group">
+                    <label for="enquiry-type">
+                        Enquiry Type:
+                    </label>
+                    <select
+                        id="enquiry-type"
+                        name="enquiry-type"
+                        required
+                    >
+                        <option value="">
+                            Select an option
+                        </option>
+                        <option value="adoption">
+                            Animal Adoption
+                        </option>
+                        <option value="volunteer">
+                            Volunteering
+                        </option>
+                        <option value="donation">
+                            Donation
+                        </option>
+                        <option value="services">
+                            Animal Welfare Services
+                        </option>
+                        <option value="cruelty">
+                            Report Animal Cruelty
+                        </option>
+                        <option value="general">
+                            General Enquiry
+                        </option>
+                    </select>
+                </div>
+                <!-- Message -->
+                <div class="form-group">
+                    <label for="message">
+                        Your Message:
+                    </label>
+                    <textarea
+                        id="message"
+                        name="message"
+                        rows="7"
+                        required
+                    ></textarea>
+                </div>
+                <!-- Submit -->
+                <button type="submit" class="button">
+                    Submit Enquiry
+                </button>
+                <!-- Reset -->
+                <button type="reset" class="button">
+                    Clear Form
+                </button>
+            </form>
+        </section>
+    </main>
+    <!-- Footer -->
+    <footer>
+        <h3>Animal Anti-Cruelty League</h3>
+        <p>Protecting animals and promoting responsible animal welfare.</p>
+        <!-- © 2026 Sisanda Mthenjana WEDES5020 Website Project All rights reserved. -->
+        <p>&copy; 2026 Animal Anti-Cruelty League Website Project</p>
+    </footer>
+</body>
+</html>
