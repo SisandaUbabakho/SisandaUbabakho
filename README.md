@@ -191,16 +191,4 @@ Improved form styling and responsive behaviour.
 Added responsive image attributes using `srcset` and `sizes`.
 Corrected image and stylesheet file naming to ensure compatibility with GitHub Pages.
 Tested the website using browser developer tools at desktop, tablet and mobile widths.
-Responsive Design Testing
 
-Desktop View
-
-[Desktop View](screenshots/desktop.png)
-
-Tablet View
-
-[Tablet View](screenshots/tablet.png)
-
- Mobile View
-
-[Mobile View](screenshots/mobile.png)
