@@ -195,7 +195,7 @@ Responsive Design Testing
 
 Desktop View
 
-[Desktop View](screenshots/desktop.png)
+[Desktop View](screenshots/desktop)
 
 Tablet View
 
