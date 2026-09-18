@@ -245,12 +245,12 @@ WEDE5020_POE_ST10474252/
 
 References:
 
-Animal Anti-Cruelty League (AACL) (2026) *Animal Anti-Cruelty League*. Available at: https://www.aacl.co.za/ (Accessed: 18 September 2026).
+Animal Anti-Cruelty League (AACL) (2026) *Animal Anti-Cruelty League*. Available at: https://www.aacl.co.za/ (Accessed: 16 September 2026).
 
-Animal Anti-Cruelty League (AACL) (2019) *About us*. Available at: https://www.aacl.co.za/about-us/ (Accessed: 18 September 2026).
+Animal Anti-Cruelty League (AACL) (2019) *About us*. Available at: https://www.aacl.co.za/about-us/ (Accessed: 16 September 2026).
 
-Animal Anti-Cruelty League Johannesburg (2026) *Johannesburg head office*. Available at: https://www.aacl.co.za/animal-anti-cruelty-league-johannesburg-branch/ (Accessed: 18 September 2026).
+Animal Anti-Cruelty League Johannesburg (2026) *Johannesburg head office*. Available at: https://www.aacl.co.za/animal-anti-cruelty-league-johannesburg-branch/ (Accessed: 16 September 2026).
 
-World Wide Web Consortium (W3C) (2024) *Web Content Accessibility Guidelines (WCAG) 2.2*. Available at: https://www.w3.org/TR/WCAG22/ (Accessed: 18 September 2026).
+World Wide Web Consortium (W3C) (2024) *Web Content Accessibility Guidelines (WCAG) 2.2*. Available at: https://www.w3.org/TR/WCAG22/ (Accessed: 16 September 2026).
 
-World Wide Web Consortium (W3C) (2024) *All WCAG 2.2 techniques*. Available at: https://www.w3.org/WAI/WCAG22/Techniques/ (Accessed: 18 September 2026).
+World Wide Web Consortium (W3C) (2024) *All WCAG 2.2 techniques*. Available at: https://www.w3.org/WAI/WCAG22/Techniques/ (Accessed: 16 September 2026).
