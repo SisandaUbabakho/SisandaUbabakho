@@ -177,18 +177,69 @@ The website was updated for Part 2 by implementing an external
 CSS stylesheet, responsive layouts, typography improvements,
 responsive images and mobile-friendly styling.
 
-Changelog
+Changelog – Part 2: CSS Styling and Responsive Design
 
 Part 2 Updates
 
-Updated all five HTML pages to use the external `style.css` stylesheet.
-Applied consistent typography, colours, spacing and layout styling.
-Added CSS Grid and Flexbox layouts for the desktop version.
-Added hover and focus states for navigation links, buttons and form fields.
-Added responsive breakpoints for desktop, tablet and mobile devices.
-Updated service cards to use a responsive multi-column layout.
-Improved form styling and responsive behaviour.
-Added responsive image attributes using `srcset` and `sizes`.
-Corrected image and stylesheet file naming to ensure compatibility with GitHub Pages.
-Tested the website using browser developer tools at desktop, tablet and mobile widths.
+Date: September 2026
+
+The following updates were made to improve the website's styling, responsiveness and usability:
+
+* Created and used an external CSS stylesheet (`style.css`) for all website pages.
+* Linked the external stylesheet to the five HTML pages.
+* Improved the website's base styling, including font family, font sizes, colours, margins and padding.
+* Added consistent typography, including font weights, line heights and heading styles.
+* Applied CSS Grid and Flexbox to improve the layout and arrangement of website content.
+* Updated the navigation bar and website layout for a more consistent appearance.
+* Added visual styling, including backgrounds, borders, shadows and spacing.
+* Added hover and focus effects to improve user interaction and accessibility.
+* Added responsive media queries for desktop, tablet and mobile screen sizes.
+* Adjusted the website layout so that content changes from multiple columns to a single column on smaller screens.
+* Used relative CSS units such as `rem`, `%` and responsive sizing values.
+* Improved image responsiveness to ensure images fit different screen sizes.
+* Tested the website using browser developer tools at desktop, tablet and mobile screen sizes.
+* Captured desktop, tablet and mobile screenshots to demonstrate responsive design.
+* Added the screenshots to the `screenshots` folder in the GitHub repository.
+* Updated the README file with links to the responsive design screenshots.
+* Organised the website files and folders in the GitHub repository.
+* Checked the navigation links between the website pages.
+* Updated the project documentation to reflect the Part 2 changes.
+
+Responsive Testing
+
+The website was tested at desktop, tablet and mobile screen sizes to check the layout, navigation, images and content responsiveness.
+
+File & Folder Structure
+WEDE5020_POE_ST10474252/
+│
+├── README.md
+│
+├── index.html
+├── about.html
+├── services.html
+├── enquiry.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── images/
+│   ├── aacl-about.jpg
+│   ├── aacl-hero.jpg
+│   ├── aacl-volunteers.jpg
+│   ├── adoption.jpg
+│   ├── cruelty.jpg
+│   ├── shelter.jpg
+│   ├── veterinary.jpg
+│   ├── community-outreach.jpg
+│   └── animal-education.jpg
+│
+├── screenshots/
+│   ├── desktop.png
+│   ├── tablet.png
+│   └── mobile.png
+│
+├── JS/
+│
+└── Assest/
 
