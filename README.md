@@ -181,7 +181,7 @@ Changelog – Part 2: CSS Styling and Responsive Design
 
 Part 2 Updates
 
-Date: September 2026
+Date: 16 September 2026
 
 The following updates were made to improve the website's styling, responsiveness and usability:
 
