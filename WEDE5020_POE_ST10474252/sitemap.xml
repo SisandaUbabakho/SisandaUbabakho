@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Before deployment, replace https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/ with the actual public site URL. -->
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/index.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/about.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/services.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/enquiry.html</loc></url>
+  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY/contact.html</loc></url>
+</urlset>
