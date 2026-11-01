@@ -255,123 +255,71 @@ World Wide Web Consortium (W3C) (2024) *Web Content Accessibility Guidelines (WC
 
 World Wide Web Consortium (W3C) (2024) *All WCAG 2.2 techniques*. Available at: https://www.w3.org/WAI/WCAG22/Techniques/ (Accessed: 16 September 2026).
 
-WEDE5020 POE – Part 3: AACL Website
+CHANGELOG
 
-1. Project Overview
+WEDE5020 POE – Part 3
 
-Part 3 of the WEDE5020 Portfolio of Evidence (POE) focuses on the further development, functionality, testing, and deployment of the AACL website. The project applies HTML5, CSS3, and JavaScript to create a structured and interactive website.
+Version 3.0 – Final Website Development
 
-The website provides information about AACL and includes navigation, images, enquiry and contact forms, and supporting website documentation.
+Date:01 November 2026
 
-2. Technologies Used
+1. Website Development
 
-* **HTML5:** Structures the website pages and content.
-* **CSS3:** Provides styling, layout, and responsive design.
-* **JavaScript:** Supports interactive features and form handling.
-* **Formspree:** Processes enquiry and contact form submissions.
-* **GitHub:** Hosts the source code repository.
-* **GitHub Pages:** Publishes the website online.
+* Continued development of the AACL website.
+* Reviewed and improved the existing website structure.
+* Maintained separate HTML pages for Home, About, Services, Enquiry and Contact.
+* Improved consistency across the website pages.
 
-3. Website Pages
+2. CSS and Responsive Design
 
-The website contains the following pages:
+* Continued using an external CSS stylesheet.
+* Improved website presentation and layout.
+* Reviewed the appearance of website elements across different screen sizes.
+* Checked navigation, images and content presentation.
 
-| Page     | File            | Purpose                                                        |
-| -------- | --------------- | -------------------------------------------------------------- |
-| Home     | `index.html`    | Introduces the website and AACL.                               |
-| About    | `about.html`    | Presents information about AACL.                               |
-| Services | `services.html` | Describes the services or activities presented on the website. |
-| Enquiry  | `enquiry.html`  | Allows visitors to submit enquiries.                           |
-| Contact  | `contact.html`  | Provides a contact form for visitors.                          |
+3. JavaScript Functionality
 
-## 4. Project File Structure
+* Maintained JavaScript functionality for interactive website features.
+* Implemented form submission handling using the Fetch API.
+* Added visitor feedback for form submissions.
 
-The main project files and folders include:
+4. Formspree Integration
 
-* `index.html`
-* `about.html`
-* `services.html`
-* `enquiry.html`
-* `contact.html`
-* `css/style.css`
-* `JS/script.js`
-* `images/`
-* `README.md`
-* `CHANGELOG.md`
-* `robots.txt`
-* `sitemap.xml`
+* Connected the Enquiry form to Formspree.
+* Connected the Contact form to Formspree.
+* Configured both forms to use the same Formspree endpoint.
+* Retained JavaScript-based form submission handling.
+* Tested form submissions.
 
-The HTML files contain the website content, the CSS file controls the visual presentation, and the JavaScript file provides interactive functionality.
+5. Website Deployment
 
-5. Website Functionality
+* Configured GitHub Pages for website hosting.
+* Published the website using the main branch.
+* Moved the website files into the repository root directory.
+* Ensured that `index.html` is located in the root directory for GitHub Pages deployment.
 
-The website includes the following features:
+6. Documentation
 
-* Navigation between the main website pages.
-* Consistent styling across the website.
-* Images used to support the website content.
-* An enquiry form for visitor enquiries.
-* A contact form for visitor messages.
-* JavaScript-based form handling.
-* A sitemap to support website navigation.
-* Online hosting through GitHub Pages.
+* Updated README.md with Part 3 project information.
+* Documented the technologies used in the project.
+* Added website structure and functionality information.
+* Included website testing and deployment information.
 
-6. Formspree Integration
+7. Testing
 
-The enquiry and contact forms have been configured to use Formspree for processing form submissions.
+* Reviewed website navigation.
+* Checked website page accessibility.
+* Tested the Enquiry and Contact forms.
+* Reviewed website image display.
+* Checked the published website through GitHub Pages.
+* Reviewed responsive presentation.
 
-The forms use the Fetch API through JavaScript to submit information without requiring a custom server-side application.
+8. Deployment Platform
 
-Both forms currently use the same Formspree endpoint. Therefore, their submissions are processed through the same Formspree form.
+* GitHub repository: SisandaUbabakho
+* Hosting platform: GitHub Pages
+* Form processing: Formspree
 
-Form functionality should be tested by submitting sample information and checking that the submissions appear in the Formspree dashboard. Email delivery should also be checked where applicable.
+Final Notes
 
-7. Responsive Design
-
-CSS is used to control the website's layout and appearance. The website should be tested on desktop computers, tablets, and mobile devices to confirm that the content, navigation, images, and forms remain accessible and usable.
-
-Responsive design testing should include checking the layout at different viewport widths and identifying any horizontal scrolling or overlapping content.
-
-8. Website Deployment
-
-The website has been configured for publication using GitHub Pages.
-
-Live website: [Insert your GitHub Pages URL]
-
-GitHub repository: [Insert your repository URL]
-
-GitHub Pages makes the website accessible through a public web address.
-
-9. Testing and Quality Assurance
-
-The following tests are used to evaluate the website.
-
-| Test                     | Expected outcome                                     | Status               |
-| ------------------------ | ---------------------------------------------------- | -------------------- |
-| Homepage                 | Loads correctly.                                     | Update after testing |
-| Navigation links         | Open the correct pages.                              | Update after testing |
-| Website images           | Display correctly.                                   | Update after testing |
-| Enquiry form             | Submits successfully and the submission is received. | Update after testing |
-| Contact form             | Submits successfully and the submission is received. | Update after testing |
-| JavaScript functionality | Works without unexpected errors.                     | Update after testing |
-| Sitemap                  | Opens and lists the intended pages.                  | Update after testing |
-| Responsive layout        | Remains usable on different screen sizes.            | Update after testing |
-| GitHub Pages deployment  | Website opens through the published URL.             | Update after testing |
-
-Testing results should be updated after each test has been completed. Any problems discovered should be corrected and tested again.
-
-10. Documentation and Change Tracking
-
-The `README.md` file documents the purpose, technologies, structure, functionality, and deployment of the website.
-
-The `CHANGELOG.md` file records development changes made during Part 3, including updates to the website files, form integration, testing, and deployment where applicable.
-
-11. Conclusion
-
-Part 3 develops the AACL website further by bringing together its HTML structure, CSS styling, JavaScript functionality, online forms, and website deployment.
-
-The final testing and documentation process helps establish whether the website meets the intended functional and presentation requirements for submission.
-
-Assessment: Portfolio of Evidence – Part 3
-
-Project: AACL Website
+Part 3 focuses on completing the AACL website functionality, improving its presentation, integrating online forms, testing the website and publishing it through GitHub Pages.
